@@ -2,7 +2,8 @@
 - 👀 I’m interested in Pokemon both Games and TCG, Sports, The Honkai Series, and WWE
 - 🌱 I’m currently learning How to Become a Front-End Developer
 - 💞️ I’m looking to collaborate on anyone who needs to build a website
-- 📫 How to reach me (Not Available For Now)
+- 📫 How to reach me:
+- Email: renecar616@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:
 - 1. I'm Autistic
