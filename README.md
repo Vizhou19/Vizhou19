@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vizhou19
 - 👀 I’m interested in Making Websites, and Freelancing
 - 🌱 I’m currently learning on How to Become a Front-End Developer
-- 💞️ I’m looking to collaborate on anyone who needs to build a website
+- 💞️ I’m looking to collaborate on anyone who needs help to build a website
 - 📫 How to reach me:
   <br>
   **Email**: renecar616@gmail.com
