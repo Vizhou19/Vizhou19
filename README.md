@@ -12,7 +12,7 @@
   3. I'm a Dallas Sports Fan (Cowboys, Mavericks, Stars, and (Current Defending Champs) Texas Rangers)
   4. I also enjoy Football (Soccer), especially Top 5 European Football Leagues and UCL
   5. I'm huge fan of Pokemon (Games and TCG) and The Honkai Series
-  6. I Love Listening to Lo-Fi and Dark Ambient Music (Recommend Aspertia City by Poke Otaku and Galaxy by Azure)
+  6. I Love Listening to Lo-Fi and Dark Ambient Music (Recommend Lulling by Caesar Torro and Snowfall by Oneheart)
 
 <!---
 Vizhou19/Vizhou19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
