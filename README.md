@@ -12,7 +12,7 @@
   3. I'm a Dallas Sports Fan (Cowboys, Mavericks, Stars, and (Current Defending Champs) Texas Rangers)
   4. I also enjoy Football (Soccer), especially Top 5 European Football Leagues and UCL
   5. I'm huge fan of Pokemon (Games and TCG) and The Honkai Series
-  6. I Love Listening to Lo-Fi and Dark Ambient Music (Recommend Lulling by Caesar Torro and Snowfall by Oneheart)
+  6. I Love Listening to Lo-Fi and The Social Network Soundtrack Playlist (Recommend Lulling by Caesar Torro and In Motion by Trent     Reznor and Atticus Ross)
 
 <!---
 Vizhou19/Vizhou19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
