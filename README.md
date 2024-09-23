@@ -9,7 +9,7 @@
 - ⚡ Fun fact:
 - 1. I'm Autistic
   2. I also Love Tech
-  3. I'm a Dallas Sports Fan (Cowboys, Mavericks, Stars, and (Current Defending Champs) Texas Rangers)
+  3. I'm a Dallas Sports Fan (Cowboys, Mavericks, Stars, and Texas Rangers)
   4. I also enjoy Football (Soccer), especially Top 5 European Football Leagues and UCL
   5. I'm huge fan of Pokemon (Games and TCG) and The Honkai Series
   6. I Love Listening to Lo-Fi and The Social Network Soundtrack Playlist (Recommend Lulling by Caesar Torro and In Motion by Trent     Reznor and Atticus Ross)
