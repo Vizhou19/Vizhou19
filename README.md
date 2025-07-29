@@ -5,6 +5,8 @@
 - 📫 How to reach me:
   <br>
   Email: renecar616@gmail.com
+  <br>
+  LinkedIn: www.linkedin.com/in/rene-cardenas-b13246358
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:
 - 1. I'm Autistic
