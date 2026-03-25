@@ -10,8 +10,8 @@
   1. I'm a Dallas Sports Fan (Cowboys, Mavericks, Stars, and Texas Rangers) ⭐
   2. I'm huge fan of Pokemon (Games and TCG). 🎴
   3. I also watch F1. 🏎️
-  4. I love to spread the word of the gospel.
-  5. I'm also learning to become a better leader.
+  4. I love to spread the word of the gospel. ✝️
+  5. I'm also learning to become a better leader. 📈
 
 <!---
 Vizhou19/Vizhou19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
