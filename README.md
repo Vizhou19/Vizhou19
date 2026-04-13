@@ -3,14 +3,14 @@
 A self-taught Front-End Developer based in United States.
 
 I'm currently working on:
-- Moderndex (Modern take of the Pokedex)
+- ModernDex (Modern take of the Pokédex)
 - (Soon) A Formula 1 Website that takes real time data. 
 
 My favorite tools are Vite, Tailwind, and AnimeJS.
 
 Fun fact:
   1. I'm a Dallas Sports Fan (Cowboys, Mavericks, Stars, and Texas Rangers) ⭐
-  2. I'm huge fan of Pokemon (Games and TCG). 🎴
+  2. I'm huge fan of Pokémon (Games and TCG). 🎴
   3. I also watch F1. 🏎️
   4. I also watch wrestling (WWE and AEW) 🤼‍♂️
   5. I love to spread the word of the gospel. ✝️
