@@ -6,6 +6,11 @@ I'm currently working on:
 - ModernDex (Modern take of the Pokédex)
 - (Soon) A Formula 1 Website that takes real time data. 
 
+Programming Languages I'm experienced in:
+- JavaScript
+- TypeScript
+- Python
+
 My favorite tools are Vite, Tailwind, and AnimeJS.
 
 Fun fact:
