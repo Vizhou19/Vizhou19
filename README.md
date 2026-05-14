@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Vizhou19
 
-A self-taught Front-End Developer based in United States.
+A self-taught Web Developer based in United States.
 
 I'm currently working on:
 - ModernDex (Modern take of the Pokédex)
@@ -10,6 +10,8 @@ Programming Languages I'm experienced in:
 - JavaScript
 - TypeScript
 - Python
+- HTML
+- CSS
 
 My favorite tools are Vite, Tailwind, Bootstrap, and AnimeJS.
 
