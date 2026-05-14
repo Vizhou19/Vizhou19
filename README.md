@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Vizhou19
 
-A self-taught Web Developer based in United States.
+A self-taught Web / Front-End Developer based in United States.
 
 I'm currently working on:
 - ModernDex (Modern take of the Pokédex)
