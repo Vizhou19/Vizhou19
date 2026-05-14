@@ -11,7 +11,7 @@ Programming Languages I'm experienced in:
 - TypeScript
 - Python
 
-My favorite tools are Vite, Tailwind, and AnimeJS.
+My favorite tools are Vite, Tailwind, Bootstrap, and AnimeJS.
 
 Fun fact:
   1. I'm a Dallas Sports Fan (Cowboys, Mavericks, Stars, and Texas Rangers) ⭐
