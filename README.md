@@ -25,6 +25,7 @@ Fun fact:
   4. I also watch wrestling (WWE and AEW) 🤼‍♂️
   5. I love to spread the word of the gospel. ✝️
   6. I'm also learning to become a better leader. 📈
+  7. I have nine cats. 🐾
 
 <!---
 Vizhou19/Vizhou19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
