@@ -5,7 +5,7 @@ A self-taught Web / Front-End Developer based in United States.
 I'm currently working on:
 - ModernDex (Modern take of the Pokédex)
 - Next.JS Emmanuel Church Website
-- (Soon) A Redesigned Formula 1 Website.
+- (WIP) A Redesigned Formula 1 Website.
 - (In 2027) Fantasy Football Trade Analyzer that takes real time data and AI
 
 Programming Languages I'm experienced in:
