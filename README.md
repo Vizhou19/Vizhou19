@@ -7,6 +7,7 @@ I'm currently working on:
 - Next.JS Emmanuel Church Website
 - (Soon) A Formula 1 Website that takes real time data.
 - (In 2027) Fantasy Football Trade Analyzer that takes real time data and AI
+
 Programming Languages I'm experienced in:
 - JavaScript
 - TypeScript
